@@ -1,0 +1,132 @@
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+h1 {
+  font-weight: 900;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+/*================ Class Selectors ================*/
+
+/*    ============ Title Section ============    */
+
+.title-sec {
+  background-color: #FF4C68;
+  color: white;
+  padding: 3% 15%;
+}
+
+.navbar {
+  padding-bottom: 4.5rem;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 700;
+  font-size: 2.5rem;
+  line-height: 1.5;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-weight: 300;
+}
+
+.col1 {
+  padding-bottom: 4.5rem;
+}
+
+.col2 {
+  text-align: center;
+}
+
+.apple-btn {
+  margin: 3rem 3rem 0 0;
+}
+
+.google-btn {
+  margin: 3rem 3rem 0 0;
+}
+
+.tindog-img {
+  transform: rotate(25deg);
+  width: 60%;
+}
+
+/*    ============ Features Section ============    */
+
+.ft-sec {
+  padding: 7% 15%;
+}
+
+.ft-row {
+  text-align: center;
+}
+
+.ft-cols {
+  padding: 2%;
+}
+
+.c-icons {
+  color: #EF8172;
+  padding: 1rem;
+  transition: color 0.15s;
+}
+
+.c-icons:hover {
+  color: #FF4C68;
+}
+
+.ft-h3 {
+  font-weight: 700;
+  line-height: 1.5;
+}
+
+.ft-paragraphs {
+  color: #8F8F8F;
+  width: 80%;
+  margin: auto;
+}
+
+/*    ============ Testimonials Section ============    */
+
+.test-sec {
+  text-align: center;
+  background-color: #EF8172;
+  color: #fff;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+.testimonial-text {
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.5;
+}
+
+.testimonial-image {
+  width: 12.5%;
+  border-radius: 100%;
+  margin: 1.25rem;
+}
+
+/*    ============ Press Section ============    */
+
+.press-sec {
+  text-align: center;
+  background-color: #EF8172;
+  padding-bottom: 3%;
+}
+
+.press-logos {
+  width: 15%;
+  margin: 1.25rem 1.25rem 3.125rem;
+}
